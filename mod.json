@@ -1,0 +1,16 @@
+{
+	"geode": "4.6.0",
+	"gd": {
+		"win": "2.2074",
+		"mac": "2.2074"
+	},
+	"version": "v1.0.0",
+	"id": "yourname.geodle",
+	"name": "Geodle",
+	"developer": "YourName",
+	"description": "A daily Wordle-style word game built right into Geometry Dash. Press F8!",
+	"tags": ["interface", "enhancement"],
+	"resources": {
+		"files": ["resources/valid_guesses.txt"]
+	}
+}
