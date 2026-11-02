@@ -1,4 +1,4 @@
-# GEODLE - a daily Wordle for Geometry Dash (Geode mod)
+# GEODLE - a daily Wordle for Geometry Dash (Geode mod) (This mod was made with Claude AI.)
 
 Press **F8** anywhere (main menu or inside a level) to open Geodle. F8 / Esc / the X button close it.
 
